@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdiP249
+- 👋 Hi, I’m Aditya Patel.
 - 👀 I’m interested in Machine Learning and Artificial Intelligence..
 - 🌱 I’m currently learning how to settle down in a new country as an International student.
 - 💞️ I’m looking to collaborate on Full Stack projects based on Machine Learning, Financial Data Analysis, etc...
